@@ -14,4 +14,4 @@
 7. Glejte ukazno vrstico za nadaljnja navodila.
 
 
-Moj odgovor na življenje, vesolje in sploh vse: vse je relativno
+Moj odgovor na življenje, vesolje in sploh vse: vse je relativno: 42
